@@ -1,5 +1,3 @@
-//Lab 1 ORTIZ, KATIE TH
-
 #include "inventorycode.h"
 
 
